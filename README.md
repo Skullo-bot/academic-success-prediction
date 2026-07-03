@@ -1,6 +1,5 @@
 # 🎓 Student Academic Success & Retention: Advanced Predictive Intelligence
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Skullo-bot/academic-success-prediction/blob/main/student_retention_predictive_analytics.ipynb)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)](https://www.kaggle.com/competitions/playground-series-s4e6)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow)](https://www.python.org/)
 
